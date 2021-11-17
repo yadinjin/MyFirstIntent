@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstIntent</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="middle">MIDDLE</string>
+    <string name="show_snackbar">SHOW SNACKBAR</string>
+</resources>
